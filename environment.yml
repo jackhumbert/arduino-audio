@@ -13,13 +13,9 @@ dependencies:
 # extensions
 - jupyter-offlinenotebook=0.3.1
 - jupyterlab-fasta=3.3
-- jupyterlab-geojson=3.4
 # C++ Kernel
 - xeus-cling=0.13.0
 - xtensor=0.23.10
 - xtensor-blas=0.19.2
 - xwidgets=0.26.1
 - xleaflet=0.16.0
-# CLI tools
-- pip
-- vim
