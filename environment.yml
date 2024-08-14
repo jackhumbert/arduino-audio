@@ -1,0 +1,5 @@
+name: xeus-cling-environment
+channels:
+  - conda-forge
+dependencies:
+  - xeus-cling
